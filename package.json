@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node": "^21.7.1",
+    "typescript": "^5.4.4"
+  },
+  "name": "new-folder",
+  "version": "1.0.0",
+  "main": "lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
